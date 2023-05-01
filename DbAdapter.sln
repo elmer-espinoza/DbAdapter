@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbAdapter", "DbAdapter.csproj", "{B87BEACA-CBC3-4601-9510-B4E3510F87B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B87BEACA-CBC3-4601-9510-B4E3510F87B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87BEACA-CBC3-4601-9510-B4E3510F87B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87BEACA-CBC3-4601-9510-B4E3510F87B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87BEACA-CBC3-4601-9510-B4E3510F87B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53EC25F7-430C-4CE5-B56C-59606F2D49B4}
+	EndGlobalSection
+EndGlobal
